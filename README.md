@@ -6,4 +6,4 @@ This is a repo to demonstrate making repos
 
 ### Sub-sub heading
 
-This is some other text
+This is some other text!
